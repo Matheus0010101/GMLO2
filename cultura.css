@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255)
+}
+
+header{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+margin-bottom: 10px;
+background-color: rgb(218, 102, 0)
+}
+
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(218, 102, 0)
+}
+
+#imagem-logo{
+    width: 10vw;
+}
+
+.imagem-grande{
+    width: 100%;
+}
+
+#nav_header_segunda{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    gap: 10vh;
+    color: white;
+    height: 5vh;
+    font-size: 20px;
+}
+
+.nav_imagem{
+    width: 5vh;
+    height: 5vh;
+    padding: 1vh;
+}
+
+.titulo-nordeste{
+    font-size: 50px;
+    padding: 10px;
+}
+
+#titulo-cultura{
+    border: 1px solid black;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    border-radius: 50px;
+    width: 30vw;
+    align-items: center;
+}
+
+#Cultura-1{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+#Cultura-2{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+#Cultura-3{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+#Cultura-4{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+#Cultura-5{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+#Cultura-6{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+#Cultura-7{
+    font-size: 25px;
+    width: 60vw;
+    padding: 20px;
+}
+
+.imagem-111{
+    display: flex;
+    position: absolute;
+    right: 200px;
+    top: 1100px;
+    width: 300px;
+
+}
+
+.imagem-222{
+    display: flex;
+    position: absolute;
+    right: 50px;
+    top: 1700px;
+    width: 501px;
+}
+
+footer{
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.titulo-footer{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.espaço-1{
+    padding: 20px;
+}
+
+.nome-1{
+    font-size: 20px;
+    position: absolute;
+    left: 50px;
+}
+
+.nome-2{
+    font-size: 20px;
+    position: absolute;
+    left: 400px;
+}
+
+.nome-3{
+    font-size: 20px;
+    position: absolute;
+    right: 400px;
+}
+
+.nome-4{
+    font-size: 20px;
+    position: absolute;
+    right: 50px;
+}
+
+.espaço-2{
+    padding: 20px;
+}
